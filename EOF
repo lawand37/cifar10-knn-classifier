@@ -1,0 +1,27 @@
+# Virtual enviroment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# CIFAR-10 dataset 
+cifar-10-python/
+cifar-10-python.tar.gz
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+EOF
+
+
+
+
+
+
+
+
+-
